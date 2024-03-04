@@ -1,16 +1,7 @@
 # pfps_platform
+# 공공시설 수해재난 플랫폼 관리자용 모바일 단말기 (Flutter)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Intro
+공공시설 수해 방지 플랫폼의 주요 목표는 대한민국이 매해 여름 겪고 있는 침수 및 홍수에 인명피해 및 재산 피해를 최소화 하고자 아이디어를 고안했습니다. 
+공공시설 수해 방지 플랫폼은 침수 피해가 발생했던 지역 혹은 침수 위험 지역에 설치하여 공공시설에 관여하는 공무원 혹은 시설 관리자가 위험 지역에 직접 설치해야 하는
+설치형 차수막은 위험 지역에 설치하러 직접 가야 하기 때문에 2차 인명피해로 이어질 수 있습니다. 하지만 저희가 개발한 공공시설 수해 방지 플랫폼은 긴급 상황에 빠르게 조치할 수 있어 이로 인한 기대 효과로 사전에 인명피해 및 재산 피해를 최소화 할 수 있을 것으로 예상됩니다.
