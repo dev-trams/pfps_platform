@@ -10,3 +10,41 @@
 
 ### 아키텍처(Architecture)
 ![img](https://file.notion.so/f/f/b485894b-653a-4595-9afa-4bcced64b150/ad4bf443-8e88-4afb-b499-7c05a0b78e10/Untitled.png?id=ed9c464c-187e-404e-934c-ceec117a45b9&table=block&spaceId=b485894b-653a-4595-9afa-4bcced64b150&expirationTimestamp=1709647200000&signature=6IaWrqzWtsEuEgE-NT8PtCHClLfWdwogRFvUMkGiiCc&downloadName=Untitled.png)
+
+### 프로젝트 구조 (Directory Tree)
+```
+lib/
+|-- constants/
+|   |-- constants.dart
+|   |-- responsive.dart
+|-- controllers/
+|   |-- controller.dart
+|-- data/
+|   |-- data.dart
+|-- models/
+|   |-- analytic_info_model.dart
+|   |-- discussions_info_model.dart
+|   |-- referal_info_model.dart
+|-- screens/
+|   |-- components/
+|   |   |-- analytic_cards.dart
+|   |   |-- analytic_info_card.dart
+|   |   |-- bar_chart_users.dart
+|   |   |-- custom_appbar.dart
+|   |   |-- dashboard_content.dart
+|   |   |-- discussion_info_detail.dart
+|   |   |-- discussions.dart
+|   |   |-- drawer_list_tile.dart
+|   |   |-- drawer_menu.dart
+|   |   |-- profile_info.dart
+|   |   |-- radial_painter.dart
+|   |   |-- referal_info_detail.dart
+|   |   |-- search_field.dart
+|   |   |-- top_referals.dart
+|   |   |-- users.dart
+|   |   |-- users_by_device.dart
+|   |   |-- view_line_chart.dart
+|   |   |-- viewers.dart
+|   |-- dash_board_screen.dart
+|-- main.dart
+```
